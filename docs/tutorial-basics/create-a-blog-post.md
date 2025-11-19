@@ -17,7 +17,7 @@ Obs.: Veremos sobre a vinculação dos produtos no próximo tópico.
 A regra fiscal e a vinculação se aplicam a produtos cujos NCMs ou outras particularidades necessitem de valores diferenciados de IBS UF, IBS Municipal, CBS ou CST. Dessa forma, todos os produtos, por padrão, utilizam as informações cadastradas nos tópicos anteriores (Tipo de Operação e Natureza de Operação). Quando vinculados a uma regra fiscal, esses produtos passam a obedecer aos parâmetros definidos nela.
 
 <p align="center">
-  <img src="img/documents/regra.jpg" width="550px" />
+  <img src="/reforma-tributaria/img/documents/regra.jpg" width="550px" />
 </p>
 
 A tela inicial conta com as mesmas funções do Tipo de Operação, sendo elas:
@@ -37,5 +37,5 @@ Dentro da tela de criação, o fluxo continua de forma simples. É necessário p
 - **CBS/IBS** (Grupo contendo campos para selecionar o **CST** e sua respectiva **Classificação Tributária**, quando necessário, além da possibilidade de definir manualmente as porcentagens de IBS e CBS aplicadas àquela regra)
 
 <p align="center">
-  <img src="img/documents/regra_create.jpg" width="550px" />
+  <img src="/reforma-tributaria/img/documents/regra_create.jpg" width="550px" />
 </p>

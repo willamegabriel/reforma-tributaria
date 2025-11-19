@@ -17,7 +17,7 @@ A tela inicial conta com funções básicas e simples de criação, sendo elas:
 - **Alterar** (Seleciona um Tipo de Operação já criado e permite alterar seus dados)
 
 <p align="center">
-  <img src="img/documents/tipo.jpg" width="550px" />
+  <img src="/reforma-tributaria/img/documents/tipo.jpg" width="550px" />
 </p>
 
 > **Obs.:** Os Tipos de Operação não podem ser excluídos — apenas inativados!
@@ -31,5 +31,5 @@ Dentro da tela de criação, o fluxo permanece simples. É necessário preencher
 - **CBS/IBS** (Grupo contendo campos para selecionar o **CST** e sua respectiva **Classificação Tributária**, quando necessário)
 
 <p align="center">
-  <img src="img/documents/tipo_create.jpg" width="550px" />
+  <img src="/reforma-tributaria/img/documents/tipo_create.jpg" width="550px" />
 </p>
