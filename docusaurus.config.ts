@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Reforma Tributária - Viggo',
   tagline: 'Documentação completa sobre IBS e CBS',
-  favicon: 'img/fvicon.ico',
+  favicon: 'img/fvcon.ico',
 
   future: {
     v4: true,
