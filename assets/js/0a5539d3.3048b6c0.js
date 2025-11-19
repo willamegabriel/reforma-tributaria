@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkibs_cbs_docs=globalThis.webpackChunkibs_cbs_docs||[]).push([[5567],{8337:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/reforma-tributaria/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

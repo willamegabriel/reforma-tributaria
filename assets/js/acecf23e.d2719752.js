@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkibs_cbs_docs=globalThis.webpackChunkibs_cbs_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/reforma-tributaria/blog","blogTitle":"Blog","authorsListPath":"/reforma-tributaria/blog/authors"}')}}]);
