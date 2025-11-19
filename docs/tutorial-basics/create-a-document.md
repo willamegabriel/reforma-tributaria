@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Tipo de Operação
@@ -27,9 +27,8 @@ A tela inicial conta com funções básicas e simples de criação, sendo elas:
 Dentro da tela de criação, o fluxo permanece simples. É necessário preencher:
 
 - **Descrição** (Campo usado como referência visual para seleção)
-- **Operação** (Campo do tipo *combo*, permitindo selecionar se a operação é de **ENTRADA** ou **SAÍDA**)
-- **CBS/IBS** (Grupo contendo campos para selecionar o **CST** e sua respectiva **Classificação Tributária**, quando necessário)
+- **CBS/IBS** (Grupo contendo campos para selecionar o **CST** e sua respectiva **Classificação Tributária**)
 
 <p align="center">
-  <img src="/reforma-tributaria/img/documents/tipo_create.jpg" width="550px" />
+  <img src="/reforma-tributaria/img/documents/tipo_create.png" width="550px" />
 </p>

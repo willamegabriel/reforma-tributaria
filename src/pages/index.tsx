@@ -16,7 +16,26 @@ export default function Home(): ReactNode {
       <HomeHero />
 
       <main>
+
         <HomepageFeatures />
+
+        {/* Botão centralizado abaixo das features */}
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            marginTop: "40px",
+            marginBottom: "60px"
+          }}
+        >
+          <a
+            href="/reforma-tributaria/intro"
+            className="home-tutorial-button"
+          >
+            Acessar Tutorial
+          </a>
+        </div>
+
       </main>
     </Layout>
   );
