@@ -12,7 +12,7 @@ Todas essas configurações são aplicadas **por padrão nos produtos**, salvo q
 Nas configurações da Empresa, na aba **Tributação**, foi adicionado um novo campo nos **Dados Gerais** para informar a porcentagem de CBS.
 
 <p align="center">
-  <img src="/reforma-tributaria/img/documents/cbs.png" width="550px" />
+  <img src="/reforma-tributaria/img/documents/cbs_empresa.png" width="550px" />
 </p>
 
 ## IBS
